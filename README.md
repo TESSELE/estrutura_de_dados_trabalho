@@ -27,5 +27,6 @@ Nao consegui aplicar essas duas logicas da matematica.
 </h3>
 <br>
 <h2>Esclarecimentos</h2>
-<h3>O Uso de inteligencia artificial foi utilizado para auxilio no aprendizado de funcoes da biblioteca Tinkers, a qual pe usado para a criacao de <br>
+<h3>O Uso de inteligencia artificial foi utilizado para auxilio no aprendizado de funcoes da biblioteca Tinkers, a qual e usado para a criacao de <br>
 interfaces. Porem caso ache necessario estou aberto a tirada de duvidas da estrutura do codigo da interface.</h3>
+<h4>( esta tudo sem acento porque meu teclado e US kkkk )</h4>
