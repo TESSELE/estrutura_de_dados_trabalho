@@ -1,4 +1,4 @@
-# estrutura_de_dados_trabalho
+# ED TRABALHO DE CALCULADORA DE PILHA
 
 
 
@@ -25,8 +25,7 @@ e um operador e resolve a expressao deles e empilha em seguida. Quando nao nenhu
               -1+3<br>
 Nao consegui aplicar essas duas logicas da matematica.
 </h3>
-
-<h2>Esclarecimentos</h2>
 <br>
+<h2>Esclarecimentos</h2>
 <h3>O Uso de inteligencia artificial foi utilizado para auxilio no aprendizado de funcoes da biblioteca Tinkers, a qual pe usado para a criacao de <br>
 interfaces. Porem caso ache necessario estou aberto a tirada de duvidas da estrutura do codigo da interface.</h3>
