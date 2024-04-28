@@ -12,8 +12,8 @@ onde que por meio de funcoes como <code>Push</code> e <code>pop</code> juntament
 de um algoritimo que funciona da seguinte forma: <br>
 O algoritimo pega o input do usuario em formato de string onde o input e dividido em dois tipos de caracteres: <strong>Operandos</strong><br>
 , <strong>operadores</strong>. e empilhados em duas pilhas.<br>
-a resolucao do problema e dada quando a primeira condicao e comprida a qual e <strong>( a pilha de operadores precisa ter algum operador e <br>
-a prioridade do operador atual e menor que a do operador do topo da lista.</strong> isso desencadeia o algoritimo que desempilha dois operandos<br>
+a resolucao do problema e dada quando a primeira condicao e comprida a qual e <strong>(a pilha de operadores precisa ter algum operador e <br>
+a prioridade do operador atual e menor que a do operador do topo da lista).</strong> isso desencadeia o algoritimo que desempilha dois operandos<br>
 e um operador e resolve a expressao deles e empilha em seguida. Quando nao nenhuma prioridade de operador o programa apenas desempilha e resolve.
 </h3>
 
